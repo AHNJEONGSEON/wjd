@@ -67,7 +67,6 @@ x=np.where(x_var==1)
 for n in x:
     abclist.append(n)
 
-    
 a= abclist[0]
 b= abclist[1]
 c= abclist[2]
